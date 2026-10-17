@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="screenshots/dashboard_preview.png" alt="NutriGuide Admin Panel Preview" width="600"/>
+ 
 </p>
 
 [![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
