@@ -1,4 +1,4 @@
-# 🥗 NutriGuide - Web Admin & Management Panel
+#  NutriGuide - Web Admin & Management Panel
 
 [![React](https://img.shields.io/badge/React-18.x-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 İçindekiler
+##  İçindekiler
 - [Proje Özet & Amaç](#-proje-özet--amaç)
 - [Öne Çıkan Özellikler](#-öne-çıkan-özellikler)
 - [Arayüz & Görsel Vitrin](#-arayüz--görsel-vitrin)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Proje Özet & Amaç
+##  Proje Özet & Amaç
 
 NutriGuide ekosisteminde mobil uygulama son kullanıcılara hizmet verirken, **NutriGuide Admin Panel** işletme/yönetim tarafının veri girişini gerçekleştirdiği kontrol merkezidir. 
 
@@ -34,17 +34,17 @@ NutriGuide ekosisteminde mobil uygulama son kullanıcılara hizmet verirken, **N
 
 ---
 
-## ✨ Öne Çıkan Özellikler
+##  Öne Çıkan Özellikler
 
-* 📝 **Yeni Tarif Ekleme Modülü:** Form doğrulama (validation) destekli yeni yemek, kategori, kalori, fiyat ve görsel URL ekleme alanı.
-* 🥗 **Kategori Tabanlı Sınıflandırma:** İçerikleri Bowl, Salata, Smoothie & Detoks gibi sağlıklı beslenme kategorilerine ayırma.
-* 📊 **Anlık Özet Sayacı:** Sistemde kayıtlı aktif tarif sayısını ve menü durumunu canlı takip etme.
-* 🎨 **NutriGuide Design System Uyumlu:** Mobil uygulama ve Figma tasarım sistemiyle %100 renk ve tipografi uyumu (Soft Nude `#ffd1c0`, Primary Green `#10B981`).
-* ⚡ **Lightning Fast Build:** Vite bundling altyapısı sayesinde 1 saniyenin altında hot-reload ve geliştirme sunucusu hızı.
+*  **Yeni Tarif Ekleme Modülü:** Form doğrulama (validation) destekli yeni yemek, kategori, kalori, fiyat ve görsel URL ekleme alanı.
+*  **Kategori Tabanlı Sınıflandırma:** İçerikleri Bowl, Salata, Smoothie & Detoks gibi sağlıklı beslenme kategorilerine ayırma.
+*  **Anlık Özet Sayacı:** Sistemde kayıtlı aktif tarif sayısını ve menü durumunu canlı takip etme.
+*  **NutriGuide Design System Uyumlu:** Mobil uygulama ve Figma tasarım sistemiyle %100 renk ve tipografi uyumu (Soft Nude `#ffd1c0`, Primary Green `#10B981`).
+*  **Lightning Fast Build:** Vite bundling altyapısı sayesinde 1 saniyenin altında hot-reload ve geliştirme sunucusu hızı.
 
 ---
 
-## 📸 Arayüz & Görsel Vitrin
+##  Arayüz & Görsel Vitrin
 
 Yönetim paneli ekran arayüzü ve geliştirme ortamı görselleri:
 
@@ -54,7 +54,7 @@ Yönetim paneli ekran arayüzü ve geliştirme ortamı görselleri:
 
 ---
 
-## 🛠️ Teknoloji Stack'i
+##  Teknoloji Stack'i
 
 | Katman | Teknoloji / Kütüphane | Kullanım Amacı |
 | :--- | :--- | :--- |
@@ -66,7 +66,7 @@ Yönetim paneli ekran arayüzü ve geliştirme ortamı görselleri:
 
 ---
 
-## 📁 Proje Mimari ve Klasör Yapısı
+##  Proje Mimari ve Klasör Yapısı
 
 Proje, okunabilirlik ve sürdürülebilirlik ilkelerine uygun modüler bir bileşen mimarisine sahiptir:
 
@@ -97,7 +97,7 @@ nutriguide-panel/
 └── README.md               # Detaylı proje dökümantasyonu
 
 
-🚀 Kurulum ve Çalıştırma (Getting Started)
+ Kurulum ve Çalıştırma (Getting Started)
 Projeyi yerel geliştirme ortamınızda (localhost) çalıştırmak için aşağıdaki adımları sırasıyla uygulayın:
 
 Gereksinimler
@@ -122,7 +122,7 @@ Bash
 npm run build
 Derlenen optimize dosyalar dist/ klasörü içerisine aktarılacaktır.
 
-📐 Bileşen ve Arayüz Yapısı
+ Bileşen ve Arayüz Yapısı
 Dashboard.jsx (Ana Kontrol Ekranı):
 
 Sol tarafta Yeni Tarif Ekle form modülünü barındırır.
@@ -137,7 +137,7 @@ tailwind.config.js (Tasarım Sistemi):
 
 NutriGuide özel renk paleti (#ffd1c0, #10B981, #2C2C2C) Tailwind temasına entegre edilmiştir.
 
-🗺️ Gelecek Yol Haritası (Roadmap)
+ Gelecek Yol Haritası (Roadmap)
 [ ] REST API / Firebase / Supabase veritabanı entegrasyonu (CRUD işlemleri).
 
 [ ] Yönetici girişi için Kimlik Doğrulama (JWT / Auth0) ekranı.
@@ -145,9 +145,6 @@ NutriGuide özel renk paleti (#ffd1c0, #10B981, #2C2C2C) Tailwind temasına ente
 [ ] Mevcut tarifleri düzenleme ve silme (Delete/Update) fonksiyonları.
 
 [ ] Dışa aktarma (CSV / PDF) menü raporlama özelliği.
-
-📄 Lisans ve İletişim
-Bu proje NutriGuide akademik ve portfolyo çalışmasının bir parçasıdır. Tüm hakları saklıdır.
 
 Geliştirici:
 Selinay Kardelen Bölge
