@@ -1,0 +1,19 @@
+```text
+# Bağımlılıklar
+node_modules/
+
+# Derleme Çıktıları
+dist/
+build/
+
+# IDE ve Editör Dosyaları
+.vscode/
+.idea/
+*.iml
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local
