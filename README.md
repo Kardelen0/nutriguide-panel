@@ -4,7 +4,7 @@
 
 ### Sağlıklı Yaşam ve Beslenme Rehberi İçin Web Yönetim Paneli
 
-<!-- 🚨 SCREENSHOT/GIF HERE 🚨 -->
+
 <p align="center">
   <img src="screenshots/dashboard_preview.png" alt="NutriGuide Admin Panel Preview" width="600"/>
 </p>
