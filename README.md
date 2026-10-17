@@ -44,13 +44,7 @@
 
 ---
 
-## 📸 Arayüz Görseli
 
-| Yönetim Paneli Canlı Arayüzü |
-| :---: |
-| ![Dashboard Preview](screenshots/dashboard_preview.png) |
-
----
 
 ## 🚀 Kurulum Rehberi (Getting Started)
 
