@@ -1,19 +1,25 @@
-```text
-# Bağımlılıklar
-node_modules/
-
-# Derleme Çıktıları
-dist/
-build/
-
-# IDE ve Editör Dosyaları
-.vscode/
-.idea/
-*.iml
-
-# İşletim Sistemi Dosyaları
-.DS_Store
-Thumbs.db
+# Logs
+logs
 *.log
-.env
-.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
